@@ -1,4 +1,4 @@
-### An example of cross compiling Golang with import functions
+### An example of cross compiling Golang with import functions specific to different OS
 
 Each function is for a different operating system. 
 
