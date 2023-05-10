@@ -16,3 +16,8 @@ GOOS=darwin go run main.go
 ```
 GOOS=linux go run main.go
 ```
+
+Each function makes use of the filename suffix e.g. _linux.go instead of using // go:build linux commentary
+
+More examples:
+https://www.jetbrains.com/help/go/configuring-build-constraints-and-vendoring.html#build-constraints
